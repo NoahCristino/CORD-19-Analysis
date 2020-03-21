@@ -88,7 +88,7 @@ The project currently scrapes through the entire dataset and converts it into a 
 
 #### Keyword "life"
 
-![Virus Lifetime Histogram](/results/Figure_1.png)
+![Virus Lifetime Histogram](/results/Figure_2.png)
 
 This project needs work, the data searching and the extraction of numbers works, but it can be improved. To find out how to help read: [Contributing](#contributing)
 
