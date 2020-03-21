@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/NoahCristino/CORD-19-Analysis/">
-    <img src="./logo.png" alt="Logo" width="80" height="80">
+    <img src="./Icon.png" alt="Logo">
   </a>
 
   <h3 align="center">CORD-19 Analysis</h3>
