@@ -15,7 +15,6 @@
 
   <p align="center">
     Analysis of the CORD-19 dataset.
-    <br />
     <!--<a href="https://github.com/NoahCristino/CORD-19-Analysis/"><strong>Explore the docs »</strong></a>-->
     <br />
     <br />
