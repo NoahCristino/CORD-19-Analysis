@@ -143,11 +143,9 @@ Red Cross (Help fight COVID-19): https://www.redcrossblood.org/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/roshanlam/ReadMeTemplate?style=for-the-badge
-[forks-url]: https://github.com/roshanlam/ReadMeTemplate/network/members
-[stars-shield]: https://img.shields.io/github/stars/roshanlam/ReadMeTemplate?style=for-the-badge
-[stars-url]: https://github.com/roshanlam/ReadMeTemplate/stargazers
-[issues-shield]: https://img.shields.io/github/issues/roshanlam/ReadMeTemplate?style=for-the-badge
-[issues-url]: https://github.com/roshanlam/ReadMeTemplate/issues
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/roshan-lamichhane
+[forks-shield]: https://img.shields.io/github/forks/NoahCristino/CORD-19-Analysis?style=for-the-badge
+[forks-url]: https://github.com/NoahCristino/CORD-19-Analysis/network/members
+[stars-shield]: https://img.shields.io/github/stars/NoahCristino/CORD-19-Analysis?style=for-the-badge
+[stars-url]: https://github.com/NoahCristino/CORD-19-Analysis/stargazers
+[issues-shield]: https://img.shields.io/github/issues/NoahCristino/CORD-19-Analysis?style=for-the-badge
+[issues-url]: https://github.com/NoahCristino/CORD-19-Analysis/issues
