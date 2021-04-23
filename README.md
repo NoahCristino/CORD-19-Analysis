@@ -134,11 +134,7 @@ Project Link: [https://github.com/NoahCristino/CORD-19-Analysis/](https://github
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [Kaggle](https://www.kaggle.com/)
-## Donations
 
-BTC: 16h1znR18ZKuNrPjtcgYYLVA2wpUupPDcn
-
-Red Cross (Help fight COVID-19): https://www.redcrossblood.org/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
